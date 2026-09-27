@@ -23,8 +23,15 @@ Supporting material:
 - [Figma wireframes for BatchGuard, RootCause and SpecCheck](https://www.figma.com/design/r25fpOdui1TT7TynBe7snc/Wireframes--BatchGuard--RootCause--SpecCheck?node-id=7-2)
 - [Work sample: production logbook (PDF)](https://github.com/achi-vyshnavi28/speccheck/blob/main/docs/work_sample_production_logbook.pdf)
 
-Earlier React / TypeScript work is on my older account,
-https://github.com/Achi-Vyshnavi (FluxChat, MuseBoard, Math-agent).
+React, Node.js and TypeScript work:
+
+| Project | What it is |
+|---|---|
+| [FluxChat](https://github.com/achi-vyshnavi28/FluxChat) | Real-time, no-code workflow builder for collaborative workflows (React, Next.js, TypeScript, Node.js) |
+| [MuseBoard](https://github.com/achi-vyshnavi28/MuseBoard) | Turns design ideas into live app screens with AI (React, Next.js, TypeScript, Node.js) |
+| [Math-agent](https://github.com/achi-vyshnavi28/Math-agent) | AI math solver: knowledge base first, LLM and web search as fallback, input/output guardrails, human feedback that updates the knowledge base; React frontend |
+| [react-api-auth-app](https://github.com/achi-vyshnavi28/react-api-auth-app) | React app with API authentication, a protected dashboard and session handling |
+
 
 ## How I work: three things that went wrong in RootCause
 
